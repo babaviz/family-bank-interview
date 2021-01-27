@@ -1,0 +1,1 @@
+INSERT INTO students (id, course, current_year, guardian_email_address, guardian_mobile, name, phone_number, registration_number) VALUES(1, 'course', 'fifth', 'babaviz.munyoki499@gmail.com', '0712509826', 'Dennis Munyoki', '0712509826', 'S13/20852/12');
