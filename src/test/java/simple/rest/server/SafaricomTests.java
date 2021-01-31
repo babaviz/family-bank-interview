@@ -72,5 +72,9 @@ public class SafaricomTests {
         int solution = solution(new int[]{3,19,5,30,8,10,4});
         System.out.println("sol:"+solution);
     }
+
+    public void postgresSql(){
+
+    }
 }
 
